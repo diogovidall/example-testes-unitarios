@@ -1,0 +1,10 @@
+INSERT INTO colaborador (nome, email, salario) VALUES ('Ana Silva', 'ana.silva@example.com', 5000.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Bruno Martins', 'bruno.martins@example.com', 4500.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Carla Gomes', 'carla.gomes@example.com', 5200.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('David Costa', 'david.costa@example.com', 4800.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Eliane Souza', 'eliane.souza@example.com', 4700.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Fernando Rocha', 'fernando.rocha@example.com', 5100.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Gisele Araujo', 'gisele.araujo@example.com', 5300.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Hector Vieira', 'hector.vieira@example.com', 4900.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('Irene Lima', 'irene.lima@example.com', 5500.0);
+INSERT INTO colaborador (nome, email, salario) VALUES ('João Pedro', 'joao.pedro@example.com', 5400.0);
